@@ -10,8 +10,7 @@ region: North America
 
 ## Welcome
 
-![OWASP Saint Louis](assets/images/stl-skyline.jpg)
-![OWASP Saint Louis](assets/images/stl-flag.png)
+![OWASP Saint Louis](assets/images/stl-skyline.jpg) ![OWASP Saint Louis](assets/images/stl-flag.png)
 
 Welcome [Greater St. Louis area](https://en.wikipedia.org/wiki/Greater_St._Louis) and beyond!  We are the the local 
 chapter serving Missouri and southern Illinois.  Our mission is to make software security visible, so that individuals 
