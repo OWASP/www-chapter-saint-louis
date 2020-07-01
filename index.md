@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Saint Louis
-tags: example-tag
+tags: stl
 level: 0
 region: North America
 
