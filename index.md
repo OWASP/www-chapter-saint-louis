@@ -5,6 +5,9 @@ title: OWASP Saint Louis
 tags: stl
 level: 0
 region: North America
+country: USA
+postal-code: 63102
+meetup-group: OWASP-STL
 
 ---
 
@@ -18,14 +21,17 @@ and organizations worldwide can make informed decisions about software security 
 
 ## Meetups
 
-We try to meet 6 times per year with a mix of presentations, demonstrations, and hackathons (CTFs).
+We try to meet 4 times per year with a mix of presentations, demonstrations, and hackathons (CTFs).
 
 Meeting locations vary but we often meet in downtown St. Louis.  When meeting in person, food and drinks are provided 
 by our generous sponsors.
 
+_**Everyone is welcome to join us at our chapter meetings.**_
+
+### Check our Upcoming Meetup Events:
 View the latest meetup events and RSVP [here](https://www.meetup.com/OWASP-STL/events/).
 
-_**Everyone is welcome to join us at our chapter meetings.**_
+{% include chapter_events.html group=page.meetup-group %}
 
 ## Safety Tips & Guides
 
