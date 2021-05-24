@@ -48,9 +48,9 @@ software. All of our projects, tools, documents, forums, and chapters are free a
 improving application security. 
 
 Chapters are led by local leaders in accordance with the 
-[Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be 
+Chapter Policy. Financial contributions should only be 
 made online using the authorized online donation button. To be a speaker at any OWASP Chapter in the world simply,
-review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leaders with details 
+review the speaker agreement and then contact the local chapter leaders with details 
 of what OWASP Project, independent research, or related software security topic you would like to present.
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), 
