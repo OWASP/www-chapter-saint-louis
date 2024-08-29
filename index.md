@@ -13,24 +13,16 @@ meetup-group:
 
 <div style='color:red;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
-
 ## Welcome
-Include some information here about your chapter
+Welcome to the OWASP
+[St. Louis ]( https://en.wikipedia.org/wiki/St._Louis) chapter home page.
+St. Louis (/seɪnt ˈluːɪs, sənt-/ saynt LOO-iss, sənt-)[11] is an independent city in the U.S. state of Missouri. It is located near the confluence of the Mississippi and the Missouri rivers.
+Our mission is to enrich St. Louis’s application security community. We
+hope you can join us in accomplishing that.
+
+![St. Louis MO]( By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/51887458@N02">Jefferson National Expansion Memorial, NPS</a> from St. Louis, MO, USA - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/jeffnps/5618845531/">Runner Fountain and Old Courthouse and Arch</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=44928305">Link</a>)
+![image](https://github.com/user-attachments/assets/37d425bb-849f-4d0f-be3c-2faaed817bfc)
+
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
