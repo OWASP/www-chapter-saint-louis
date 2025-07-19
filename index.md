@@ -6,8 +6,8 @@ tags:
 level: 0
 region: North America
 country: USA
-postal-code: 
-meetup-group: 
+postal-code: 62243
+meetup-group: owasp-saint-louis-chapter
 
 ---
 
