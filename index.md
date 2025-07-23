@@ -14,6 +14,9 @@ meetup-group: owasp-saint-louis-chapter
 ## Welcome to the St. Louis Chapter
 Welcome to the Saint Louis, Missouri OWASP chapter homepage!
 
+**Stay Connected:**
+Please subscribe to our [OWASP Saint Louis Meetup Group](https://www.meetup.com/owasp-saint-louis-chapter/). We will also post event information here and on all our other media platforms (LinkedIn, Facebook, twitter, discord, etc).
+
 
 
 ## Participation
