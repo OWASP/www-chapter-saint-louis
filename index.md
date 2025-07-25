@@ -17,11 +17,6 @@ meetup-group: owasp-saint-louis-chapter
 
 Welcome to the Saint Louis, Missouri OWASP chapter homepage! We are a group of security professionals, developers, and enthusiasts from the Show Me state who are passionate about improving the security of software applications and promoting OWASP's mission. Our chapter is dedicated to providing a platform for knowledge sharing, networking, and collaboration in the field of application security.
 
-## Chapter Co-Leaders
-
-- [Andre Van Klaveren](https://www.linkedin.com/in/andrevanklaveren/)
-- [Nathan Byrd](https://www.linkedin.com/in/nathanielbyrd/)
-
 ## Stay Connected
 
 Please subscribe to our [OWASP Saint Louis Meetup Group](https://www.meetup.com/owasp-saint-louis-chapter/). We will also post event information here and on all our other media platforms (LinkedIn, Facebook, twitter, discord, etc).
