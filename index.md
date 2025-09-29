@@ -35,3 +35,10 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 We schedule our meetings on the [OWASP Saint Louis Group](https://www.meetup.com/owasp-saint-louis-chapter/)
 
 {% include chapter_events.html group=page.meetup-group %}
+
+## Chapter Sponsors
+
+OWASP does not endorse vendors, but we would like to acknowledge the following sponsors of our Saint Louis OWASP Chapter:
+
+[![RubinBrown](/assets/images/RubinBrown_Logo.png)](https://www.rubinbrown.com/)
+
