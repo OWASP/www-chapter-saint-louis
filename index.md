@@ -42,3 +42,4 @@ OWASP does not endorse vendors, but we would like to acknowledge the following s
 
 [![RubinBrown](/assets/images/RubinBrown_Logo.png)](https://www.rubinbrown.com/)
 
+[![Hashgraph](/assets/images/hashgraph_logo_448.png)](https://www.hashgraph.com/)
