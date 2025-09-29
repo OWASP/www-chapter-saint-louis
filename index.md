@@ -40,6 +40,6 @@ We schedule our meetings on the [OWASP Saint Louis Group](https://www.meetup.com
 
 OWASP does not endorse vendors, but we would like to acknowledge the following sponsors of our Saint Louis OWASP Chapter:
 
-[![RubinBrown](/assets/images/RubinBrown_Logo.png)](https://www.rubinbrown.com/){: .member-logo}
+[![RubinBrown](/assets/images/RubinBrown_Logo.png)](https://www.rubinbrown.com/){: .supporter-logo}
 
-[![Hashgraph](/assets/images/hashgraph_logo_448.png)](https://www.hashgraph.com/){: .member-logo}
+[![Hashgraph](/assets/images/hashgraph_logo_448.png)](https://www.hashgraph.com/){: .supporter-logo}
